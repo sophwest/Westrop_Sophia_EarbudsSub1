@@ -11,7 +11,13 @@ Sorry, not going to VOID my rights to this. A personal use project.
 
 ## Credits  
 
-sophwest / Sophia Westrop - author, 3D model
+sophwest / Sophia Westrop - author, 3D model  
+
+svg's from svgrepo:  
+https://www.svgrepo.com/svg/437628/ear  
+https://www.svgrepo.com/svg/487913/touch  
+https://www.svgrepo.com/svg/514817/audio-spectrum-analyzer  
+https://www.svgrepo.com/svg/532831/battery-bolt  
 
 ## License  
 
